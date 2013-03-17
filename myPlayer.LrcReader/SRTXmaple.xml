@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE srtx>
+<srtx xmlns="http://schema.xcvista.cs.vc/ns/srtx">
+	<head>
+		<title>Bad Romance</title>
+		<artist>Ann Sherry Jones</artist>
+		<album>Singles</album>
+		<author>Maxthon Chan</author>
+		<meta type="image/png" name="icon" encoding="Base64" />
+		<meta type="text/html" name="copyright">
+			<![CDATA[
+			<html xmlns="http://www.w3.org/1999/xhtml">
+				<body>
+					<div>
+						&copy; 2011
+					</div>
+				</body>
+			</html>
+			]]>
+		</meta>
+	</head>
+	<lines>
+		<line start="00:00:00.000" end="00:00:02.000" type="text/plain">Oh...</line>
+		<line start="00:00:02.000" end="00:00:04.000" type="text/html">
+			<![CDATA[
+			<html xmlns="http://www.w3.org/1999/xhtml">
+				<body>
+					<div>
+						<span style="font-weight: bold;">Oh...</span>
+						<br />
+						<span>Yo!</span>
+					</div>
+				</body>
+			</html>
+			]]>
+		</line>
+		<line start="00:00:04.000" end="00:00:15.000" type="text/plain">Oh...</line>
+		<line start="00:00:15.000" end="00:00:20.000" type="text/plain">Oh...</line>
+	</lines>
+</srtx>
